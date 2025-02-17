@@ -24,4 +24,4 @@ print_hi('Tom')
 
 The Mandelbulb3D Animation Copilot is nearing the date it can be released on Github.
 
-![Screenshot](../assets/images/HDR_7571_PatrickCook_4x6.png "Screenshot")
+![Screenshot](/assets/images/HDR_7571_PatrickCook_4x6.png "Screenshot")
