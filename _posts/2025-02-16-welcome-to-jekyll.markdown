@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mandelbulb3D Copilot Releases Soon!"
-date:   2025-02-17 17:04:28 -0500
+date:   2025-02-17 15:04:28 -0500
 categories: Copilot Update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -23,3 +23,5 @@ print_hi('Tom')
 {% endhighlight %}
 
 The Mandelbulb3D Animation Copilot is nearing the date it can be released on Github.
+
+![Screenshot](../assets/images/HDR_7571_PatrickCook_4x6.png "Screenshot")
