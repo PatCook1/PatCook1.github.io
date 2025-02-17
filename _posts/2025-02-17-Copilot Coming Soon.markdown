@@ -5,6 +5,6 @@ date:   2025-02-17 15:04:28 -0500
 categories: Copilot Update
 ---
 
-The Mandelbulb3D Animation Copilot is coming to Github very soon!
+The Mandelbulb3D Animation Copilot application is coming to Github soon!
 
-![Screenshot](../assets/images/HDR_7571_PatrickCook_4x6.jpg "Screenshot")
+![alt text](../assets/images/HDR_7571_PatrickCook_4x6.jpg)
