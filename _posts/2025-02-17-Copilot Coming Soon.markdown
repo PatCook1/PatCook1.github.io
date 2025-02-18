@@ -7,4 +7,4 @@ categories: Copilot Update
 
 The Mandelbulb3D Animation Copilot is coming to Github soon!
 
-![alt text](../assets/images/HDR_7571_PatrickCook_4x6.jpg)
+![alt text](<img src="{{site.url}}/assets/images/HDR_7571_PatrickCook_4x6.jpg")
