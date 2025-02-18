@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Mandelbulb3D Copilot Releases Soon!"
 date:   2025-02-17 15:04:28 -0500
 categories: Copilot Update
@@ -18,6 +18,6 @@ The various features of the Mandelbulb3D Animation Copilot facilitate creating M
 
 <img src="/assets/images/MB Copilot Main Screen 800x600.JPG">
 
-The Copilot was developed to address the difficulty of creating long or or complex animation sequences with the Mandelbulb3D fractal generator. The challenge is not having the movement of each keyframe recorded to be able to keep track of the movements of previous keyframes. The Copilot places all of the movements of each keyframe into a local database to facilitate subsequent keyframing.
+The Copilot was developed to address the difficulty of creating long or complex animation sequences with the Mandelbulb3D fractal generator. The challenge is not having the movement of each keyframe recorded to be able to keep track of the movements of previous keyframes. The Copilot places all of the movements of each keyframe into a local database to facilitate subsequent keyframing.
 
 This Windows Winforms application is developed, and managed, by Patrick C. Cook. The Copilot is being prepared for realase via Github as open source software where you will be able to download and use it for your own Mandelbulb3D animation work. 
