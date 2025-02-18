@@ -16,8 +16,8 @@ This Copilot facilitates reverting to earlier keyframes as well as modifying key
 
 The various features of the Mandelbulb3D Animation Copilot facilitate creating Mandelbulb3D animations that are complex in movement as well as longer.
 
-<img src="../assets/images/MB Copilot Main Screen 800x600.jpg">
+<img src="/assets/images/MB Copilot Main Screen 800x600.JPG">
 
-The Copilot was developed to address the difficulty if creating long or more complex animation sequences with the Mandelbulb3D fractal generator. The challenge is not having the movement of each keyframe recorded to keep track of the movements of previous keyframes. The Copilot places all of the movements of each keyframe into a local database.
+The Copilot was developed to address the difficulty of creating long or or complex animation sequences with the Mandelbulb3D fractal generator. The challenge is not having the movement of each keyframe recorded to be able to keep track of the movements of previous keyframes. The Copilot places all of the movements of each keyframe into a local database to facilitate subsequent keyframing.
 
 This Windows Winforms application is developed, and managed, by Patrick C. Cook. The Copilot is being prepared for realase via Github as open source software where you will be able to download and use it for your own Mandelbulb3D animation work. 
