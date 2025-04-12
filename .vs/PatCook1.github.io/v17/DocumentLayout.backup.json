@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\",
+  "WorkspaceRootPath": "C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-02-17-Copilot Coming Soon.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-Copilot Demonstration Videos||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-04-09-Copilot Demonstration Videos||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-04-09-Installing the Copilot.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-04-09-Installing the Copilot.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-About the Copilot.markdown||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-04-09-About the Copilot.markdown||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-02-17-Copilot Coming Soon.markdown||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_config.yml",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_config.yml",
-              "RelativeDocumentMoniker": "_config.yml",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_config.yml",
-              "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-18T00:32:04.355Z",
+              "DocumentIndex": 0,
+              "Title": "2025-04-09-Copilot Demonstration Videos",
+              "DocumentMoniker": "C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-Copilot Demonstration Videos",
+              "RelativeDocumentMoniker": "_posts\\2025-04-09-Copilot Demonstration Videos",
+              "ToolTip": "C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-Copilot Demonstration Videos",
+              "RelativeToolTip": "_posts\\2025-04-09-Copilot Demonstration Videos",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T20:35:23.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2025-02-17-Copilot Coming Soon.markdown",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown",
-              "RelativeDocumentMoniker": "_posts\\2025-02-17-Copilot Coming Soon.markdown",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\PatCook1\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown",
-              "RelativeToolTip": "_posts\\2025-02-17-Copilot Coming Soon.markdown",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "2025-04-09-About the Copilot.markdown",
+              "DocumentMoniker": "C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-About the Copilot.markdown",
+              "RelativeDocumentMoniker": "_posts\\2025-04-09-About the Copilot.markdown",
+              "ToolTip": "C:\\Users\\5700\\Source\\Repos\\PatCook1.github.io\\_posts\\2025-04-09-About the Copilot.markdown",
+              "RelativeToolTip": "_posts\\2025-04-09-About the Copilot.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-17T22:58:22.716Z",
+              "WhenOpened": "2025-04-09T20:00:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2025-02-17-Copilot Coming Soon.markdown",
+              "DocumentMoniker": "C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown",
+              "RelativeDocumentMoniker": "_posts\\2025-02-17-Copilot Coming Soon.markdown",
+              "ToolTip": "C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-02-17-Copilot Coming Soon.markdown",
+              "RelativeToolTip": "_posts\\2025-02-17-Copilot Coming Soon.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-09T19:39:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2025-04-09-Installing the Copilot.markdown",
+              "DocumentMoniker": "C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-04-09-Installing the Copilot.markdown",
+              "RelativeDocumentMoniker": "_posts\\2025-04-09-Installing the Copilot.markdown",
+              "ToolTip": "C:\\Users\\5700\\source\\repos\\PatCook1.github.io\\_posts\\2025-04-09-Installing the Copilot.markdown",
+              "RelativeToolTip": "_posts\\2025-04-09-Installing the Copilot.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-09T14:58:23.61Z",
               "EditorCaption": ""
             }
           ]

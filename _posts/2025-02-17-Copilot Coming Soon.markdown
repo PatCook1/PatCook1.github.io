@@ -10,7 +10,7 @@ The Mandelbulb3D Animation Copilot is coming to Github soon!
 
 The **Mandelbulb3D Animation Copilot** facilitates creating [Mandelbulb3D](https://mb3d.overwhale.com/) animations by mapping a game controller or the keys of a standard PC keyboard to the Mandelbulb3D application's Navigator step and angle keys and recording those keyframe movements to a local database. This provides the animation creator with a record of all of the keyframe movements of an animation project, which in turn facilitates complex or long animation sequences. The premise of the Copilot is to help the animation creator keep track of the movements of previous keyframes to facilitate coordinating  long or complex animation sequences, which the Mandelbulb3D application itself does not provide.
 
-<img src="/assets/images/MB Copilot Main Screen 800x600.JPG">
+<img src="/assets/images/MB3D Copilot Main Tab.jpg">
 
 The Copilot also automates keyframe movements with pre-designed move sequences and keyframe replication features. This provides the animation creator sets of move sequences that are stored in a local database that can be run simply by selecting from a list. This feature assures consistent move sequences, often of which are repetitive.
 
